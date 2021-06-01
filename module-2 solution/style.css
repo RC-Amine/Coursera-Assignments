@@ -43,12 +43,10 @@
   
   .content{
     border: 5px solid black;
-    
-    
+    margin-top: 35px;
     padding: 15px;
     color: black
     font-size: 25px;
-    
     background-color: rgba(0,0,0,0.3);
   }
   
