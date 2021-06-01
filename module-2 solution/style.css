@@ -44,11 +44,10 @@
     border: 5px solid black;
     
     
-    margin: 2.5%;
+    padding: 15px;
     color: black
     font-size: 25px;
-    padding: 2%;
-    padding-top: 55px;
+    
     background-color: rgba(0,0,0,0.3);
   }
   
